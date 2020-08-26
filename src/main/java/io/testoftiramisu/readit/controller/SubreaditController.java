@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/subreddit")
+@RequestMapping("/api/subreadit")
 @AllArgsConstructor
 @Slf4j
 public class SubreaditController {
