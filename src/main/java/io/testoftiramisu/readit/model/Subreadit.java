@@ -22,7 +22,7 @@ import static javax.persistence.GenerationType.IDENTITY;
 @NoArgsConstructor
 @Entity
 @Builder
-public class SubReadit {
+public class Subreadit {
 
   @Id
   @GeneratedValue(strategy = IDENTITY)

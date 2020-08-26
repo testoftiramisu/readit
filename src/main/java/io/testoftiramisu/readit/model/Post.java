@@ -47,5 +47,5 @@ public class Post {
 
   @ManyToOne(fetch = LAZY)
   @JoinColumn(name = "id", referencedColumnName = "id")
-  private SubReadit subReadIt;
+  private Subreadit subReadIt;
 }
